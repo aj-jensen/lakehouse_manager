@@ -1,0 +1,42 @@
+{
+   "pullRequestEvents":[
+      {
+         "pullRequestId":"4",
+         "eventDate":"datetime.datetime(2024, 4, 23, 21, 50, 11, 19000)",
+         "pullRequestEventType":"PULL_REQUEST_CREATED",
+         "actorArn":"arn:aws:sts::12345678923:assumed-role/SomeRole/your.name",
+         "pullRequestCreatedEventMetadata":{
+            "repositoryName":"dataeng",
+            "sourceCommitId":"315bd36c4967d3ce8579a9f88262b654f7db57d2",
+            "destinationCommitId":"64f563e1112037c1ad0ead25dfdaf0e07761feea",
+            "mergeBase":"3c2e75361a5c69364249e1dfcd253ff6dca7f8b4"
+         }
+      },
+      {
+         "pullRequestId":"4",
+         "eventDate":"2024,4,23,21,50,48,118000",
+         "pullRequestEventType":"PULL_REQUEST_MERGE_STATE_CHANGED",
+         "actorArn":"arn:aws:sts::12345678923:assumed-role/SomeRole/your.name",
+         "pullRequestMergedStateChangedEventMetadata":{
+            "repositoryName":"dataeng",
+            "destinationReference":"refs/heads/main",
+            "mergeMetadata":{
+               "isMerged":true,
+               "mergedBy":"arn:aws:sts::12345678923:assumed-role/SomeRole/your.name",
+               "mergeOption":"SQUASH_MERGE"
+            }
+         }
+      }
+   ],
+   "ResponseMetadata":{
+      "RequestId":"2ea7ff36-59c2-4309-8bd4-cc49931c0bcc",
+      "HTTPStatusCode":200,
+      "HTTPHeaders":{
+         "x-amzn-requestid":"2ea7ff36-59c2-4309-8bd4-cc49931c0bcc",
+         "content-type":"application/x-amz-json-1.1",
+         "content-length":"926",
+         "date":"Tue, 23 Apr 2024 21:53:21 GMT"
+      },
+      "RetryAttempts":0
+   }
+}

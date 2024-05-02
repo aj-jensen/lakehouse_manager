@@ -1,0 +1,25 @@
+{
+  "tests": [
+    {
+      "name":"test_0",
+      "type":"sorted_aggregation",
+      "query":"select * from (select 5 as test_result_col from DremioData.application.\"tpcds_all_sales\" AT BRANCH \"main\") limit 2",
+      "column_name": "test_result_col",
+      "expected":[5,5]
+    },
+    {
+      "name":"test_1",
+      "type":"scalar",
+      "query":"select * from (select 5 as test_result_col from DremioData.application.\"tpcds_all_sales\" AT BRANCH \"main\") limit 1",
+      "column_name": "test_result_col",
+      "expected":5
+    },
+    {
+      "name":"test_2",
+      "type":"scalar",
+      "query":"select * from (select 5 as test_result_col from DremioData.application.\"tpcds_all_sales\" AT BRANCH \"main\") limit 1",
+      "column_name": "test_result_col",
+      "expected":4
+    }
+  ]
+}
