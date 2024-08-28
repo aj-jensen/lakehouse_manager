@@ -1,0 +1,266 @@
+{
+   "token":null,
+   "logEntries":[
+      {
+         "commitMeta":{
+            "hash":"39dc372ccde128aa04b46d215f047b0ba7971758d6201a45b67cb65a526527ac",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"ALTER on VIEW application.tpcds_all_sales",
+            "commitTime":"2024-04-26T21:53:42.239625Z",
+            "authorTime":"2024-04-26T21:53:42.239625Z",
+            "parentCommitHashes":[
+               "a45b67cb65a526527aca04b46d215f047b0ba79739dc372ccde128a1758d6201"
+            ]
+         },
+         "parentCommitHash":"a45b67cb65a526527aca04b46d215f047b0ba79739dc372ccde128a1758d6201",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"a45b67cb65a526527aca04b46d215f047b0ba79739dc372ccde128a1758d6201",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"ALTER on VIEW application.tpcds_all_sales",
+            "commitTime":"2024-04-26T21:53:42.239625Z",
+            "authorTime":"2024-04-26T21:53:42.239625Z",
+            "parentCommitHashes":[
+               "fe312bf0bcadb78666893caf0bda892b9f0bd2bef4eefe80ee2519bb025da179"
+            ]
+         },
+         "parentCommitHash":"fe312bf0bcadb78666893caf0bda892b9f0bd2bef4eefe80ee2519bb025da179",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"fe312bf0bcadb78666893caf0bda892b9f0bd2bef4eefe80ee2519bb025da179",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"DROP TABLE cloud.us.jobs",
+            "commitTime":"2024-04-26T20:04:04.325445Z",
+            "authorTime":"2024-04-26T20:04:04.325445Z",
+            "parentCommitHashes":[
+               "ae9ecec626d38afc75329a169d1a6728866402e3a3aae9fea7873b45f1fcc307"
+            ]
+         },
+         "parentCommitHash":"ae9ecec626d38afc75329a169d1a6728866402e3a3aae9fea7873b45f1fcc307",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"ae9ecec626d38afc75329a169d1a6728866402e3a3aae9fea7873b45f1fcc307",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"DROP VIEW preparation.jobs_all",
+            "commitTime":"2024-04-26T19:09:18.817013Z",
+            "authorTime":"2024-04-26T19:09:18.817013Z",
+            "parentCommitHashes":[
+               "d6201a45b67d215f047b0ba79cb65a526527aca04b46739dc372ccde128a1758"
+            ]
+         },
+         "parentCommitHash":"d6201a45b67d215f047b0ba79cb65a526527aca04b46739dc372ccde128a1758",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"d6201a45b67d215f047b0ba79cb65a526527aca04b46739dc372ccde128a1758",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"ALTER on VIEW application.tpcds_all_sales",
+            "commitTime":"2024-04-26T18:53:42.239625Z",
+            "authorTime":"2024-04-26T18:53:42.239625Z",
+            "parentCommitHashes":[
+               "ffa33b8c44d43f225961c6e2eab4c5d83be7cf5edd1026e65ac5353f01808df9"
+            ]
+         },
+         "parentCommitHash":"ffa33b8c44d43f225961c6e2eab4c5d83be7cf5edd1026e65ac5353f01808df9",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"ffa33b8c44d43f225961c6e2eab4c5d83be7cf5edd1026e65ac5353f01808df9",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"DROP FOLDER cloud",
+            "commitTime":"2024-04-26T17:17:43.840009Z",
+            "authorTime":"2024-04-26T17:17:43.840009Z",
+            "parentCommitHashes":[
+               "405be56d55c316da97e2c42ad53adefd77dc3f48cc82ceaad1a2e526438d1521"
+            ]
+         },
+         "parentCommitHash":"405be56d55c316da97e2c42ad53adefd77dc3f48cc82ceaad1a2e526438d1521",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"405be56d55c316da97e2c42ad53adefd77dc3f48cc82ceaad1a2e526438d1521",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"DROP FOLDER cloud.emea",
+            "commitTime":"2024-04-26T17:17:39.834671Z",
+            "authorTime":"2024-04-26T17:17:39.834671Z",
+            "parentCommitHashes":[
+               "703e4c598a8ce9a54c46bf34178000fedbfd846d83ebbd89dfcd63f5f6241acd"
+            ]
+         },
+         "parentCommitHash":"703e4c598a8ce9a54c46bf34178000fedbfd846d83ebbd89dfcd63f5f6241acd",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"703e4c598a8ce9a54c46bf34178000fedbfd846d83ebbd89dfcd63f5f6241acd",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"DROP FOLDER cloud.us",
+            "commitTime":"2024-04-26T17:17:36.457105Z",
+            "authorTime":"2024-04-26T17:17:36.457105Z",
+            "parentCommitHashes":[
+               "e3fc8c3d4fade7a24c0a03a0a28300f3e532d6fffeb4867d076ae6228d10a7e6"
+            ]
+         },
+         "parentCommitHash":"e3fc8c3d4fade7a24c0a03a0a28300f3e532d6fffeb4867d076ae6228d10a7e6",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"e3fc8c3d4fade7a24c0a03a0a28300f3e532d6fffeb4867d076ae6228d10a7e6",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"DROP VIEW tpcds_all_sales_v2.sql",
+            "commitTime":"2024-04-26T02:28:34.544603Z",
+            "authorTime":"2024-04-26T02:28:34.544603Z",
+            "parentCommitHashes":[
+               "a77c17b1dabc8ca431440e54c89a13b6557dc22ba1d856a3d51bf48bf59148c1"
+            ]
+         },
+         "parentCommitHash":"a77c17b1dabc8ca431440e54c89a13b6557dc22ba1d856a3d51bf48bf59148c1",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"a77c17b1dabc8ca431440e54c89a13b6557dc22ba1d856a3d51bf48bf59148c1",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"CREATE VIEW tpcds_all_sales_v2.sql",
+            "commitTime":"2024-04-26T02:25:50.698303Z",
+            "authorTime":"2024-04-26T02:25:50.698303Z",
+            "parentCommitHashes":[
+               "32e028500511a70734ccb9062f47fc3a8ba3de478650c217454b53a334935608"
+            ]
+         },
+         "parentCommitHash":"32e028500511a70734ccb9062f47fc3a8ba3de478650c217454b53a334935608",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"32e028500511a70734ccb9062f47fc3a8ba3de478650c217454b53a334935608",
+            "committer":"e94fe494-2dfe-4d34-9aac-48c47fed29d0",
+            "authors":[
+               "brock@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"TRUNCATE on TABLE preparation.zips",
+            "commitTime":"2024-04-24T19:14:29.548153Z",
+            "authorTime":"2024-04-24T19:14:29.548153Z",
+            "parentCommitHashes":[
+               "ec78474e64e49d3039e91e92ff77411bc00c915474ce8a8638bd4ed33b889527"
+            ]
+         },
+         "parentCommitHash":"ec78474e64e49d3039e91e92ff77411bc00c915474ce8a8638bd4ed33b889527",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"ec78474e64e49d3039e91e92ff77411bc00c915474ce8a8638bd4ed33b889527",
+            "committer":"e94fe494-2dfe-4d34-9aac-48c47fed29d0",
+            "authors":[
+               "brock@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"CREATE TABLE preparation.zips",
+            "commitTime":"2024-04-24T19:10:17.498956Z",
+            "authorTime":"2024-04-24T19:10:17.498956Z",
+            "parentCommitHashes":[
+               "a179fe312bf0bcadb78666892b9f0bd2bef4893caf0bdaeefe80ee2519bb025d"
+            ]
+         },
+         "parentCommitHash":"a179fe312bf0bcadb78666892b9f0bd2bef4893caf0bdaeefe80ee2519bb025d",
+         "operations":null
+      },
+      {
+         "commitMeta":{
+            "hash":"a179fe312bf0bcadb78666892b9f0bd2bef4893caf0bdaeefe80ee2519bb025d",
+            "committer":"d0d450b5-acd2-438e-ab52-814c3f7b0e9d",
+            "authors":[
+               "aj.jensen@dremio.com"
+            ],
+            "allSignedOffBy":[
+
+            ],
+            "message":"DROP TABLE cloud.us.jobs",
+            "commitTime":"2024-04-23T18:04:04.325445Z",
+            "authorTime":"2024-04-23T18:04:04.325445Z",
+            "parentCommitHashes":[
+               "97278e8aa079e6554843d1eb7695815fb0bf1aeff6fd9d398c02c6c4bb31658b"
+            ]
+         },
+         "parentCommitHash":"97278e8aa079e6554843d1eb7695815fb0bf1aeff6fd9d398c02c6c4bb31658b",
+         "operations":null
+      }
+   ],
+   "hasMore":false
+}
